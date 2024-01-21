@@ -31,6 +31,10 @@ header {
   border-radius: 15px;
 }
 
+.time-block textarea {
+  color: #000000;
+}
+
 .row {
   white-space: pre-wrap;
   height: 80px;
