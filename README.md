@@ -1,4 +1,4 @@
-# Weekly-Planner
+# Your Weekly-Planner
 ## Description
 This Webpage is created using HTML, CSS, Javascript and JSQuery. It is created to serve as a weekly planner for workers within their work schedules, saving tasks and to-dos
 
